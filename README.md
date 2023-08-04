@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :alien: About Me:
 :man_technologist: Tech Lead at Abercrombie and Fitch<br><br>:computer: Tech Addict. I'm always seeking the latest in tech advancements and enjoy being on the cutting edge of development.<br><br>:books: Lifelong learner. I believe there's always something new to learn in our vast tech world.<br><br>:family_man_woman_boy: Proud Dad. When I'm not immersed in tech, I'm spending quality time with my family.<br><br>:handshake: I love connecting with people! Feel free to reach out if you want to collaborate, need some advice, or just want to chat about tech.<br>
 
 
